@@ -194,17 +194,17 @@ p {
 }
 
 .accordion-slider .box.first-box {
-  background: #000 url("kaza/img/black-kettle-beside-condiment-shakers-and-green-fruits-and-1080696.jpg") no-repeat center center;
+  background: #000 url("/img/black-kettle-beside-condiment-shakers-and-green-fruits-and-1080696.jpg") no-repeat center center;
   background-size: cover;
 }
 
 .accordion-slider .box.second-box {
-  background: #000 url("kaza/img/apartment-bed-bedroom-chair-271624.jpg") no-repeat center center;
+  background: #000 url("/img/apartment-bed-bedroom-chair-271624.jpg") no-repeat center center;
   background-size: cover;
 }
 
 .accordion-slider .box.third-box {
-  background: #000 url("kaza/img/two-white-and-brown-armchairs-3316925.jpg") no-repeat center center;
+  background: #000 url("/img/two-white-and-brown-armchairs-3316925.jpg") no-repeat center center;
   background-size: cover;
 }
 
@@ -264,7 +264,7 @@ p {
 
 .accordion-slider-content:before {
   content: "";
-  background: url("kaza/img/placeholder.svg") no-repeat;
+  background: url("/img/placeholder.svg") no-repeat;
   width: 20px;
   height: 20px;
   float: left;
@@ -439,7 +439,7 @@ p {
 
 .button-small:after {
   content: "";
-  background: url("kaza/img/next-black.svg") no-repeat;
+  background: url("/img/next-black.svg") no-repeat;
   width: 10px;
   height: 10px;
   margin-left: 3px;
@@ -583,12 +583,12 @@ p {
 
 .apartment__image-slider .slick-arrow.slick-prev {
   left: 0;
-  background: url(kaza/img/slider-prev.svg) 0 0/100% no-repeat;
+  background: url(/img/slider-prev.svg) 0 0/100% no-repeat;
 }
 
 .apartment__image-slider .slick-arrow.slick-next {
   right: 0;
-  background: url(kaza/img/slider-next.svg) 0 0/100% no-repeat;
+  background: url(/img/slider-next.svg) 0 0/100% no-repeat;
 }
 
 .slick-list {
