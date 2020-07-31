@@ -194,17 +194,17 @@ p {
 }
 
 .accordion-slider .box.first-box {
-  background: #000 url("/img/black-kettle-beside-condiment-shakers-and-green-fruits-and-1080696.jpg") no-repeat center center;
+  background: #000 url("../img/black-kettle-beside-condiment-shakers-and-green-fruits-and-1080696.jpg") no-repeat center center;
   background-size: cover;
 }
 
 .accordion-slider .box.second-box {
-  background: #000 url("/img/apartment-bed-bedroom-chair-271624.jpg") no-repeat center center;
+  background: #000 url("../img/apartment-bed-bedroom-chair-271624.jpg") no-repeat center center;
   background-size: cover;
 }
 
 .accordion-slider .box.third-box {
-  background: #000 url("/img/two-white-and-brown-armchairs-3316925.jpg") no-repeat center center;
+  background: #000 url("../img/two-white-and-brown-armchairs-3316925.jpg") no-repeat center center;
   background-size: cover;
 }
 
